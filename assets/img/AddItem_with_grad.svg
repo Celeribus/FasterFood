@@ -1,0 +1,14 @@
+<svg width="75" height="38" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <g>
+  <title>Layer 1</title>
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="60%" y2="60%">
+      <stop offset="0%" style="stop-color:rgb(20,255,0);stop-opacity:1" />
+      <stop offset="100%" style="stop-color:rgb(50,85,50);stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <path id="svg_1" d="m0,0l60,0l15,15l0,23l-75,0l0,-38z" stroke-width="0" stroke="#000000" fill="url(#grad1)"/>
+  <text font-weight="bold" stroke="#000000" transform="matrix(0.9682102077403765,0,0,0.9125509407500024,-38.01685236792683,-24.291049167680885) " xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" id="svg_4" y="56.13685" x="73.95787" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#ffffff">+ Add</text>
+ </g>
+</svg>

@@ -1,0 +1,1 @@
+db.createUser({user:"kgr", pwd:"kpw", roles:["readWrite","dbAdmin"]});
