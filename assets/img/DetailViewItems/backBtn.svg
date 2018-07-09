@@ -1,0 +1,16 @@
+<svg width="200" height="40" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <title>Layer 1</title>
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_8">
+   <svg y="0" x="-79.10156" id="svg_4" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+    <polygon points="  0,12 12,20 17,  0 " stroke-width="0" stroke="purple" fill="#00aeff" id="svg_6"/>
+    <polygon points="20,  0 22,  0 17,20 15,20 " stroke-width="0" stroke="purple" fill="#00aeff" id="svg_5"/>
+   </svg>
+  </g>
+  <text stroke="purple" transform="matrix(2.961318191551769,0,0,2.2445792599322076,-91.87793490250998,-38.64312449246599) " 
+        font-style="italic" xml:space="preserve" text-anchor="middle" 
+        font-family="'Trebuchet MS', sans-serif, Helvetica" font-size="24" id="svg_9" y="34.80733" x="71.66599" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#00aeff">Back</text>
+ </g>
+</svg>
