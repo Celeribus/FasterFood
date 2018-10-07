@@ -1,0 +1,16 @@
+﻿<svg width="800" height="360" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <style type="text/css">.st0{fill:#DD0031;}
+	.st1{fill:#C3002F;}
+	.st2{fill:#FFFFFF;}</style>
+ <g>
+  <title>Layer 1</title>
+  <g stroke="null" id="svg_1">
+   <polygon stroke="null" id="svg_2" points="133,123 133,123 133,123 39.899993896484375,156.1999969482422 54.100006103515625,279.3000183105469 133,323 133,323 133,323 211.89996337890625,279.3000183105469 226.0999755859375,156.1999969482422 " class="st0"/>
+   <polygon stroke="null" id="svg_3" points="133,123 133,145.1999969482422 133,145.10000610351562 133,246.39999389648438 133,246.39999389648438 133,323 133,323 211.89996337890625,279.3000183105469 226.0999755859375,156.1999969482422 133,123 " class="st1"/>
+   <path stroke="null" id="svg_4" d="m133,145.1l-58.2,130.5l0,0l21.7,0l0,0l11.7,-29.2l49.4,0l11.7,29.2l0,0l21.7,0l0,0l-58,-130.5l0,0l0,0l0,0l0,0zm17,83.3l-34,0l17,-40.9l17,40.9z" class="st2"/>
+  </g>
+  <text stroke="#000000" transform="matrix(1.582573668557182,0,0,1.6405353707528938,-21.526255485814644,-148.89656970375412) " fill="#000000" stroke-width="0" x="147.22586" y="143.91076" id="svg_5" font-size="48" font-family="Brush Script MT" text-anchor="middle" xml:space="preserve" font-style="italic">Powered By</text>
+  <text xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="48" id="svg_6" y="268.80433" x="320.19756" stroke-width="0" fill="#000000" transform="matrix(2.6789405910587356,0,0,2.399588054333573,-362.34690118426727,-368.7471665296842) " stroke="#000000">NGULAR</text>
+  <rect id="svg_11" height="0" width="1" y="304.81818" x="381.45455" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="null" stroke="#000000" fill="#000000"/>
+ </g>
+</svg>
