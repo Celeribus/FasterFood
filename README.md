@@ -6,3 +6,7 @@ For a project overview, refer to the <a href="https://github.com/Celeribus/Faste
 To have a quick view of the application's behavior, use the browser from you mobile phone to navigate to the link below. <br>
 
 <a href="https://ssbtrucken.com/sbsrv/cus">https://ssbtrucken.com/sbsrv/cus</a>
+
+To view the Orders Management Module including the Order Monitor, please request a user and password and use it with the link below:
+
+<a href="https://ssbtrucken.com/sbsrv/mgr">https://ssbtrucken.com/sbsrv/mgr</a>
