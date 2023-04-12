@@ -5,4 +5,4 @@ We are building a project targeted at the Fast Food industry using the MEAN stac
 For a project overview, refer to the <a href="https://github.com/Celeribus/FasterFood/wiki">Wiki page</a>.<br><br>
 To have a quick view of the application's behavior, use the browser from you mobile phone to navigate to the link below. Do not use a laptop or desktop as the application is not optimized to be viewed from a PC.<br>
 
-<a href="https://celeribus.github.io/FasterFood">https://celeribus.github.io/FasterFood</a>
+<a href="https://ssbtrucken.com/sbsrv/cus">https://ssbtrucken.com/sbsrv/cus</a>
